@@ -1,4 +1,6 @@
 # Social Media Tools
+<img width="2688" height="1152" alt="social-media-tools-banner-b" src="https://github.com/user-attachments/assets/b85a1603-11c8-4a15-86a5-51e4d8a20d2e" />
+
 
 A practical, continuously updated directory of **social media tools, management platforms, AI tools, publishing software, analytics solutions, and multi-account workflows**.
 
