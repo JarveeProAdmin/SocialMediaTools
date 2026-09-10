@@ -1,4 +1,5 @@
 # JarveePro vs Publer: Social Media Management, Automation & Publishing Compared
+<img width="2688" height="1152" alt="jarveepro-vs-publer-banner-b" src="https://github.com/user-attachments/assets/c54b5810-0664-4e22-8902-ccf983131d5f" />
 
 > A practical comparison of JarveePro and Publer for social media scheduling, multi-platform publishing, content repurposing, analytics, multi-account workflows, AI-assisted operations, and automation.
 
